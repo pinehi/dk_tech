@@ -1,0 +1,9 @@
+---
+title: "Learning Linux via Ubuntu"
+author: "DK"
+date: "2023-03-05"
+categories: [linux, ubuntu]
+image: "image.jpg"
+---
+
+Learning Linux takes time and patience
