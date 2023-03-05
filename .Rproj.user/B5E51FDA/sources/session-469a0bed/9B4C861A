@@ -1,14 +1,14 @@
 {
-    "id": "27C2CF39",
-    "path": "~/dk_tech/index.qmd",
-    "project_path": "index.qmd",
+    "id": "9B4C861A",
+    "path": "~/dk_tech/posts/20230305 ubuntu/index.qmd",
+    "project_path": "posts/20230305 ubuntu/index.qmd",
     "type": "quarto_markdown",
-    "hash": "1043421407",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1678028478577.0,
+    "created": 1678028631673.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0",
         "cursorPosition": "0,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678028526,
+    "lastKnownWriteTime": 1678028703,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678028526741,
+    "last_content_update": 1678028703615,
     "read_only": false,
     "read_only_alternatives": []
 }
